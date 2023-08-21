@@ -12,4 +12,8 @@
 
 ### 預覽
 
+
+
+<img src="https://github.com/j7-dev/god-bless/assets/9213776/35727573-56a2-428b-b650-6333084f9a4a">
+
 <img src="https://github.com/j7-dev/god-bless/assets/9213776/e1583836-5d7a-4409-82c1-e8c18d2ee644">
