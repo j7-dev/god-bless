@@ -12,6 +12,8 @@
 
 ⭐ [更多圖案](https://github.com/code-cool/code-art)
 
+⭐ [Text to ASCII Art Generator](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
+
 ### 預覽
 
 
